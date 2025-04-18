@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContaTerminal",
+      "request": "launch",
+      "mainClass": "ContaTerminal",
+      "projectName": "ContaBanco_12e4ef02"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
