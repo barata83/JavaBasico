@@ -1,18 +1,22 @@
-## Getting Started
+💻 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Java. Este GitHub é onde organizo meus projetos, exercícios e aprendizados em programação orientada a objetos e desenvolvimento de aplicações Java.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Busco evoluir diariamente com projetos práticos, reforçando conceitos como:
 
-## Folder Structure
+☕ Orientação a Objetos (POO)
 
-The workspace contains two folders by default, where:
+📦 Estrutura de projetos Java
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+🔁 Manipulação de dados com Scanner e loops
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+🧪 Prática com algoritmos e lógica
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+🚀 O que você pode encontrar aqui
+Projetos simples e didáticos de aprendizado
 
-## Dependency Management
+Exercícios resolvidos com boas práticas
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Estruturação de classes, métodos e objetos
+
+Utilização de Git e versionamento no dia a dia
+
