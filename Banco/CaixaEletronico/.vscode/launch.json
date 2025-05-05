@@ -1,0 +1,63 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ProcessoSeletivo",
+      "request": "launch",
+      "mainClass": "ProcessoSeletivo",
+      "projectName": "CaixaEletronico_34f35698"
+    },
+    {
+      "type": "java",
+      "name": "calculadoraDeMedia",
+      "request": "launch",
+      "mainClass": "calculadoraDeMedia",
+      "projectName": "CaixaEletronico_34f35698"
+    },
+    {
+      "type": "java",
+      "name": "PlanoOperadora",
+      "request": "launch",
+      "mainClass": "PlanoOperadora",
+      "projectName": "CaixaEletronico_34f35698"
+    },
+    {
+      "type": "java",
+      "name": "ContaTerminal",
+      "request": "launch",
+      "mainClass": "ContaTerminal",
+      "projectName": "ContaBanco_12e4ef02"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "MinhaClasse",
+      "request": "launch",
+      "mainClass": "MinhaClasse",
+      "projectName": "SmartTv_75998d35"
+    },
+    {
+      "type": "java",
+      "name": "ParOuImpar",
+      "request": "launch",
+      "mainClass": "ParOuImpar",
+      "projectName": "SmartTv_75998d35"
+    },
+    {
+      "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "Usuario",
+      "projectName": "SmartTv_75998d35"
+    }
+  ]
+}
