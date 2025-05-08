@@ -12,7 +12,7 @@ public class Main {
     catalogo.adicionarLivro("Spring Boot em Ação", "Craig Walls", 2016);
     catalogo.adicionarLivro("Algoritmos", "Thomas Cormen", 2009);
     catalogo.adicionarLivro("Effective Java", "Joshua Bloch", 2018);
-    catalogo.adicionarLivro("Introdução à POO", "Carlos Souza", 2022);
+    
 
   catalogo.mostrarTodos();
 }}

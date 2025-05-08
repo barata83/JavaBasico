@@ -34,7 +34,6 @@ public class Livro{
   public void catalogo(){
     System.out.println("O Titulo é " + titulo);
    System.out.println("O autor é " +  autor);
-    System.out.println("Foi publicado em " + anoPublicaçao);}
-
-  
+    System.out.println("Foi publicado em " + anoPublicaçao);
+  }
 }
