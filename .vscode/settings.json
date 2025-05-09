@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
         "Treinamento POO/aprendendendoList/src",
-        "JavaBasico/Escola"
+        "JavaBasico/Escola",
+        "Treinamento POO/setInterface"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
