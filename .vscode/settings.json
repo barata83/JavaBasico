@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "Treinamento POO/aprendendendoList/Loja",
         "Treinamento POO/aprendendendoList/ListaDeNomes",
         "Treinamento POO/OperacoesMap",
         "JavaBasico/Escola",
-        "Treinamento POO/aprendendendoList/Loja"
+        "Treinamento POO/OutroTestes"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

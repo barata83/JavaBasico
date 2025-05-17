@@ -1,8 +1,6 @@
-package NovaAula;
+package UFC;
 
-
-
-public class Luta implements Lutador{
+public class Luta extends Lutador{
 
   private desafiado Lutador;
   private desafiante Lutador;

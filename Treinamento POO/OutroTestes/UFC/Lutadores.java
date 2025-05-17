@@ -1,4 +1,4 @@
-package NovaAula;
+package UFC;
 
 import java.util.Scanner;
 
